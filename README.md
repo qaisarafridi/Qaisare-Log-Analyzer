@@ -1,4 +1,13 @@
-# 🛡️ QAISARE EVENT LOG ANALYZER
+# 🛡️ QAISARE EVENT LOG ANALYZER## 🖥️ Application Screenshots
+
+### 1. Main Dashboard
+
+![QAISARE Event Log Analyzer Dashboard](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaa.png)
+
+### 2. Application Startup Screen
+
+![QAISARE Event Log Analyzer Startup Screen](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaaa.png)
+
 
 **AI-Powered Windows Event Log Forensics, SIEM Correlation & Digital Forensics and Incident Response (DFIR)**
 
@@ -407,12 +416,4 @@ If you find this project useful:
 
 **Turning Windows event data into meaningful security intelligence.**
 
-## 🖥️ Application Screenshots
 
-### 1. Main Dashboard
-
-![QAISARE Event Log Analyzer Dashboard](screenshots/aaaa.png)
-
-### 2. Application Startup Screen
-
-![QAISARE Event Log Analyzer Startup Screen](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaaa.png)
