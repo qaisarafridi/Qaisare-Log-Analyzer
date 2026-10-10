@@ -7,6 +7,13 @@
 
 ![QAISARE Event Log Analyzer Dashboard](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaa.png)
 
+## 📥 Download QAISARE Event Log Analyzer
+
+[![Download Application](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge\&logo=google-drive)](https://drive.google.com/uc?export=download&id=18OqaOVQQMnwUvs9YZJQguiXNsX9MbL0k)
+
+Download QAISARE Event Log Analyzer and try the application on your Windows system.
+
+
 
 **AI-Powered Windows Event Log Forensics, SIEM Correlation & Digital Forensics and Incident Response (DFIR)**
 
