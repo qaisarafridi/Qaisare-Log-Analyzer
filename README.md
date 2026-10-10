@@ -406,3 +406,13 @@ If you find this project useful:
 * Submit improvements through pull requests.
 
 **Turning Windows event data into meaningful security intelligence.**
+
+## 🖥️ Application Screenshots
+
+### 1. Main Dashboard
+
+![QAISARE Event Log Analyzer Dashboard](screenshots/dashboard.png)
+
+### 2. Application Startup Screen
+
+![QAISARE Event Log Analyzer Startup Screen](screenshots/splash-screen.png)
