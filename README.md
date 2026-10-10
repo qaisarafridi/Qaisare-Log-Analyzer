@@ -2,11 +2,10 @@
 
 ### 1. Main Dashboard
 
-![QAISARE Event Log Analyzer Dashboard](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaa.png)
-
+![QAISARE Event Log Analyzer Startup Screen](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaaa.png)
 ### 2. Application Startup Screen
 
-![QAISARE Event Log Analyzer Startup Screen](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaaa.png)
+![QAISARE Event Log Analyzer Dashboard](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaa.png)
 
 
 **AI-Powered Windows Event Log Forensics, SIEM Correlation & Digital Forensics and Incident Response (DFIR)**
