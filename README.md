@@ -255,35 +255,8 @@ Before running the application, verify that you have:
 * Network access if using external OSINT enrichment
 * Required permissions for the selected event channels
 
-### Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/QAISARE-EVENT-LOG-ANALYZER.git
-cd QAISARE-EVENT-LOG-ANALYZER
-```
-
-Inspect the solution and restore dependencies:
-
-```bash
-dotnet --info
-dotnet restore
-```
-
-Build the solution:
-
-```bash
-dotnet build --configuration Release
-```
-
-Run the application using the appropriate project path:
-
-```bash
-dotnet run --project path/to/YourApplication.csproj
-```
-
-Replace the repository URL and project path with the actual published values.
 
 ### Configuration
 
