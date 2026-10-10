@@ -411,8 +411,8 @@ If you find this project useful:
 
 ### 1. Main Dashboard
 
-![QAISARE Event Log Analyzer Dashboard](screenshots/dashboard.png)
+![QAISARE Event Log Analyzer Dashboard](screenshots/aaaa.png)
 
 ### 2. Application Startup Screen
 
-![QAISARE Event Log Analyzer Startup Screen](screenshots/splash-screen.png)
+![QAISARE Event Log Analyzer Startup Screen](screenshots/aaa.png)
