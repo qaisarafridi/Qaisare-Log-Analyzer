@@ -415,4 +415,4 @@ If you find this project useful:
 
 ### 2. Application Startup Screen
 
-![QAISARE Event Log Analyzer Startup Screen](screenshots/aaa.png)
+![QAISARE Event Log Analyzer Startup Screen](https://github.com/qaisarafridi/Qaisare-Log-Analyzer/blob/main/aaaa.png)
